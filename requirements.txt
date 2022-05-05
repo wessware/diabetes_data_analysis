@@ -9,3 +9,4 @@ matplotlib==3.3.4
 seaborn==0.11.1
 xgboost==1.4.2
 ctgan==0.5.1
+hyperopt==0.2.7
